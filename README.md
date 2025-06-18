@@ -49,5 +49,4 @@ Kullanıcı 2’yi seçerek numaralı listeden bir arabayı siler.
 Kullanıcı 3’ü seçerek galerideki mevcut arabaları listeler.  
 ![Arabaları listeleme](screenshots/ss6.png)
 
-
 ## 🖥️ Uygulama EXE Olarak Derlendi 
