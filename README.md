@@ -1,1 +1,2 @@
 # galeri-uygulamasi
+#
